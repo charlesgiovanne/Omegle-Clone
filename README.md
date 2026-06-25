@@ -3,7 +3,7 @@
 ## CS325 - Parallel and Distributed Computing Final PIT
 
 
-pls read /Frontend/README.md
+pls readD /Frontend/README.md
 
 Link: [/Frontend/README.md](/Katabi/Frontend/README.md)
 
